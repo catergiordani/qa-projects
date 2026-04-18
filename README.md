@@ -1,2 +1,8 @@
-# qa-projects
-Este repositório contém formulários de casos de testes e projetos que estou desenvolvendo para aprimorar meus conhecimentos :D
+
+Olá! Este repositório foi criado para armazenar meus projetos de testes de software, com o objetivo de demonstrar minhas habilidades em Quality Assurance :D 📚
+
+Aqui você encontrará: 
+
+- Testes manuais
+- Testes de API
+- Automação de testes
